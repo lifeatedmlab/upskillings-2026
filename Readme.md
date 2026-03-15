@@ -74,45 +74,6 @@ Modul ini memperkenalkan konsep dasar deep learning: arsitektur neural network, 
 
 ---
 
-## 🗂️ Struktur Repository
-
-```
-upskilling-data/
-├── modul-1-eda/
-│   ├── notebook/
-│   ├── dataset/
-│   └── README.md
-├── modul-2-ml-modelling/
-│   ├── notebook/
-│   ├── dataset/
-│   └── README.md
-├── modul-3-deep-learning/
-│   ├── notebook/
-│   ├── dataset/
-│   └── README.md
-└── README.md
-```
-
----
-
-## ⚙️ Cara Memulai
-
-```bash
-# 1. Clone repository ini
-git clone https://github.com/username/upskilling-data.git
-cd upskilling-data
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Buka notebook modul yang diinginkan
-jupyter notebook modul-1-eda/notebook/
-```
-
-**Requirements:** Python 3.8+, Jupyter Notebook, pandas, numpy, scikit-learn, matplotlib, seaborn, tensorflow/pytorch
-
----
-
 ## 🙏 Thanks to Contributors
 
 Terima kasih kepada semua yang telah berkontribusi dalam program ini! 🎉
