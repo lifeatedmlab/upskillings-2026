@@ -28,7 +28,7 @@ Modul ini membahas teknik-teknik dasar dalam mengeksplorasi dataset: membaca dis
 - Handling missing values & outliers
 - Korelasi antar fitur
 
-📹 **[Tonton Rekaman Sesi](#)** ← *(ganti dengan link video)*
+📹 **[Tonton Rekaman Sesi]()** ← *(ganti dengan link video)*
 
 ---
 
@@ -43,7 +43,8 @@ Modul ini mencakup alur kerja machine learning end-to-end: preprocessing data, m
 - Model evaluation (accuracy, F1, AUC-ROC)
 - Cross-validation & hyperparameter tuning
 
-📹 **[Tonton Rekaman Sesi](#)** ← *(ganti dengan link video)*
+📹 **[Tonton Rekaman Sesi](https://teams.microsoft.com/l/meetingrecap?driveId=b%21ZFPvi0s6xEud42liLtjW4ox-N2cDlZlOuRw0Q6GWFKs3mQxF5K5yT6-05AjqpzXu&driveItemId=014K2ESI7UINL2W5PIGJHKYFYGHGT5LHDR&sitePath=https%3A%2F%2Ftelkomuniversityofficial-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fsyihammrafi_student_telkomuniversity_ac_id%2FIQD0Q1erdegyTqwXBjmn1ZxxAc6Zlprqe_53pXnKnCizyEU&fileUrl=https%3A%2F%2Ftelkomuniversityofficial-my.sharepoint.com%2Fpersonal%2Fsyihammrafi_student_telkomuniversity_ac_id%2FDocuments%2FRekaman%2FPelatihan+Staff+EDM+G6-20260301_100523-Meeting+Recording.mp4%3Fweb%3D1&iCalUid=040000008200E00074C5B7101A82E00800000000EBD068B2ADA8DC01000000000000000010000000042B19F71E6CF848B204B6028C232FEB&threadId=19%3Ameeting_M2M4Mzc4MjEtMTFiZC00MGNiLWIwYmEtMTI3ZmU1OGVjYjlj%40thread.v2&organizerId=6ab8f638-6f29-4c5a-81da-b804a02bacf2&tenantId=90affe0f-c2a3-4108-bb98-6ceb4e94ef15&callId=4b6823ac-661d-4fdd-a676-974acc53825f&threadType=Meeting&meetingType=Scheduled&subType=RecapSharingLink_RecapCore
+)** ← *(ganti dengan link video)*
 
 ---
 
