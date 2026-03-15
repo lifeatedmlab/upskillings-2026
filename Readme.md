@@ -11,7 +11,7 @@
 
 ## 📖 Tentang Program
 
-Program **Staff Table Upskilling** dirancang untuk membekali staff dengan keterampilan data science secara bertahap dan terstruktur — mulai dari memahami data mentah, membangun model prediktif, hingga mendalami konsep deep learning modern.
+Program **Upskilling** dirancang untuk membekali staff dengan keterampilan data science secara bertahap dan terstruktur — mulai dari memahami data mentah, membangun model prediktif, hingga mendalami konsep deep learning modern.
 
 ---
 
